@@ -1,5 +1,5 @@
 # Ecommerce
-    https://github.com/Kbove/hw13-Kyle-Bove-ecommerce
+    https://github.com/Kbove/Ecommerce-Backend
     
 ## Description
     A full stack application to store product information in a MySQL database and serve up information on product via node.js and sequelize
