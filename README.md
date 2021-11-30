@@ -1,8 +1,8 @@
 # Ecommerce
-    https://github.com/Kbove/Ecommerce-Backend
+https://github.com/Kbove/Ecommerce-Backend
     
 ## Description
-    A full stack application to store product information in a MySQL database and serve up information on product via node.js and sequelize
+A full stack application to store product information in a MySQL database and serve up information on product via node.js and sequelize
     
 ## Table of Contents
     
@@ -17,10 +17,10 @@
 * [Questions](#Question)
     
 ## Installation <a id="Installation"></a>
-    The following necessary dependencies must be installed to run the application: insomnia, node js, vscode, or any popular web browser
+The following necessary dependencies must be installed to run the application: insomnia, node js, vscode, or any popular web browser
     
 ## User Story <a id="Usage"></a>
-    Ecommerce is a booming industry and business owners need a way to store, organize, track, and pull up data on there products and services easily
+Ecommerce is a booming industry and business owners need a way to store, organize, track, and pull up data on there products and services easily
 
 ## Walkthrough Videos
 part 1: https://watch.screencastify.com/v/VPtwqL6B4ZhKp2WLyCns
@@ -31,11 +31,11 @@ part 5: https://watch.screencastify.com/v/J21PBFzD4h22c3ePLpO2
 part 6: https://watch.screencastify.com/v/Ue7cXaWNCO01ZCwVS90H
     
 ## Contributors <a id="Contributors"></a>
-    Contributors: Kyle Bove
+Contributors: Kyle Bove
     
 ## Tests <a id="Tests"></a>
-    Tests: Tested all the routes using insomnia
+Tests: Tested all the routes using insomnia
     
 ## Questions <a id="Question"></a>
-    Frequently Asked Questions: Will it work?
+Frequently Asked Questions: Will it work?
     
